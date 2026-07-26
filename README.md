@@ -17,7 +17,7 @@ This project measures the execution time of a task using the SysTick timer and c
 
 ## Project Image
 
-![Click here to check out the project image](images/IMG_20260726_192201_185/jpg)
+![Click here to check out the project image](images/IMG_20260726_192201_185.jpg)
 
 ## Components Used
 
